@@ -761,3 +761,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/go,vim,node,code,linux,macos,emacs,images,windows,archive,webstorm,jetbrains,sublimetext,webstorm+all,webstorm+iml,coffeescript,jetbrains+all,jetbrains+iml
+__pycache__
