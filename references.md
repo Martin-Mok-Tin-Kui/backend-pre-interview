@@ -2,6 +2,7 @@ The basic algorithm to solve any valid sudoku is using backtracking:
 [Sudoku | Backtracking-7](https://www.geeksforgeeks.org/sudoku-backtracking-7/)  
 More advanced algorithm treat sudoku as an Exact Cover problem, and solve it using [Knuth's Algorithm X](https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X):  
 [Create a Sudoku Solver in Java](https://www.baeldung.com/java-sudoku)  
+[Solving Sudoku Fast](https://medium.com/optima-blog/solving-sudoku-fast-702912c13307#:~:text=Such%20an%20algorithm%20would%20have,operations%20to%20find%20a%20solution.)  
 To improve the algorithm, we can take a look at Crook’s pencil-and-paper algorithm:  
 [Mathematics and Sudokus: Solving Algorithms (II)](http://pi.math.cornell.edu/~mec/Summer2009/meerkamp/Site/Solving_any_Sudoku_II.html)  
 Also check more human strategies:  
